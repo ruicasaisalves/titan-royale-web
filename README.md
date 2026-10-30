@@ -5,4 +5,4 @@ Build Web (HTML5) do [Titan Royale](https://aruvez.itch.io/titan-royale), servid
 Este repositório tem só o jogo exportado (`index.html`, `index.js`, `index.wasm`, `index.pck`, …);
 o projeto Godot vive noutro repositório. Cada versão nova substitui estes ficheiros.
 
-Versão: 0.17b
+Versão: 0.17c
