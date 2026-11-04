@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1793752520|10838250';
+const CACHE_VERSION = '1793754825|11326673';
 /** @type {string} */
 const CACHE_PREFIX = 'Titan Royale-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
